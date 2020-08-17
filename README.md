@@ -12,3 +12,9 @@ CellStore, es un sitio de venta de smartphones
 Destinado a cualquier tipo de audiencia 
 
 LISTADO DE PAGINAS REFERENTES
+
+Mercado Libre
+Fravega
+Garbarino
+AppleStore
+Musimundo
